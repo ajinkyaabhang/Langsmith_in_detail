@@ -1,0 +1,6 @@
+env
+.env
+langsmith_env/
+__pycache__/
+logs/
+*.pyc
